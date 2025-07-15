@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ContactList</name>
+    </assembly>
+    <members>
+        <member name="T:ContactList.Models.Contact">
+            <inheritdoc/>
+        </member>
+        <member name="P:ContactList.Models.Contact.Name">
+            <inheritdoc cref="F:ContactList.Models.Contact._name"/>
+        </member>
+        <member name="P:ContactList.Models.Contact.Email">
+            <inheritdoc cref="F:ContactList.Models.Contact._email"/>
+        </member>
+        <member name="P:ContactList.Models.Contact.PhoneNumber">
+            <inheritdoc cref="F:ContactList.Models.Contact._phoneNumber"/>
+        </member>
+        <member name="P:ContactList.Models.Contact.Description">
+            <inheritdoc cref="F:ContactList.Models.Contact._description"/>
+        </member>
+        <member name="T:ContactList.ViewModels.AddContactViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ContactList.ViewModels.AddContactViewModel.Name">
+            <inheritdoc cref="F:ContactList.ViewModels.AddContactViewModel._name"/>
+        </member>
+        <member name="P:ContactList.ViewModels.AddContactViewModel.Email">
+            <inheritdoc cref="F:ContactList.ViewModels.AddContactViewModel._email"/>
+        </member>
+        <member name="P:ContactList.ViewModels.AddContactViewModel.PhoneNumber">
+            <inheritdoc cref="F:ContactList.ViewModels.AddContactViewModel._phoneNumber"/>
+        </member>
+        <member name="P:ContactList.ViewModels.AddContactViewModel.Description">
+            <inheritdoc cref="F:ContactList.ViewModels.AddContactViewModel._description"/>
+        </member>
+        <member name="F:ContactList.ViewModels.AddContactViewModel.saveContactCommand">
+            <summary>The backing field for <see cref="P:ContactList.ViewModels.AddContactViewModel.SaveContactCommand"/>.</summary>
+        </member>
+        <member name="P:ContactList.ViewModels.AddContactViewModel.SaveContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ContactList.ViewModels.AddContactViewModel.SaveContact"/>.</summary>
+        </member>
+        <member name="T:ContactList.ViewModels.ContactDetailViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:ContactList.ViewModels.ContactDetailViewModel.IsEditing">
+            <inheritdoc cref="F:ContactList.ViewModels.ContactDetailViewModel._isEditing"/>
+        </member>
+        <member name="P:ContactList.ViewModels.ContactDetailViewModel.SelectedContact">
+            <inheritdoc cref="F:ContactList.ViewModels.ContactDetailViewModel._selectedContact"/>
+        </member>
+        <member name="F:ContactList.ViewModels.ContactDetailViewModel.toggleEditCommand">
+            <summary>The backing field for <see cref="P:ContactList.ViewModels.ContactDetailViewModel.ToggleEditCommand"/>.</summary>
+        </member>
+        <member name="P:ContactList.ViewModels.ContactDetailViewModel.ToggleEditCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:ContactList.ViewModels.ContactDetailViewModel.ToggleEdit"/>.</summary>
+        </member>
+        <member name="F:ContactList.ViewModels.ContactDetailViewModel.saveChangesCommand">
+            <summary>The backing field for <see cref="P:ContactList.ViewModels.ContactDetailViewModel.SaveChangesCommand"/>.</summary>
+        </member>
+        <member name="P:ContactList.ViewModels.ContactDetailViewModel.SaveChangesCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:ContactList.ViewModels.ContactDetailViewModel.SaveChanges"/>.</summary>
+        </member>
+        <member name="T:ContactList.ViewModels.ContactsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:ContactList.ViewModels.ContactsViewModel.Contacts">
+            <inheritdoc cref="F:ContactList.ViewModels.ContactsViewModel._contacts"/>
+        </member>
+        <member name="T:ContactList.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.PhoneNumber">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "PhoneNumber" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Description">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Description" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsNotEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsNotEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.SelectedContact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "SelectedContact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Name">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Name" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Email">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Email" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.PhoneNumber">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "PhoneNumber" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Description">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Description" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsNotEditing">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsNotEditing" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.SelectedContact">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "SelectedContact" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Contacts">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Contacts" generated properties.</summary>
+        </member>
+    </members>
+</doc>

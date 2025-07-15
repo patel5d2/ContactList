@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>  
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"  
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"  
+             x:Class="ContactList.Views.ContactsPage"
+             xmlns:model="clr-namespace:ContactList.Models;assembly=ContactList"  
+             Title="Contacts">  
+    <Grid RowDefinitions="*, Auto">  
+        <CollectionView ItemsSource="{Binding Contacts}"  
+                      SelectionMode="Single"  
+                      SelectionChanged="OnContactSelected">  
+            <CollectionView.ItemTemplate>  
+                <DataTemplate x:DataType="model:Contact">  
+                    <Border Stroke="LightGray" StrokeThickness="1" Padding="10" Margin="5">  
+                        <Border.StrokeShape>  
+                            <RoundRectangle CornerRadius="5"/>  
+                        </Border.StrokeShape>  
+                        <VerticalStackLayout>  
+                            <Label Text="{Binding Name}" FontAttributes="Bold" />  
+                            <Label Text="{Binding Email}" />  
+                        </VerticalStackLayout>  
+                    </Border>  
+                </DataTemplate>  
+            </CollectionView.ItemTemplate>  
+        </CollectionView>  
+
+        <Button Grid.Row="1" Text="Add New Contact" Clicked="OnAddNewContactClicked" />  
+    </Grid>  
+</ContentPage>

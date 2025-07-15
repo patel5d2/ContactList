@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\addcontactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\views\\contactdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\contactdetailspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\addcontactpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\contactspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\contactlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\contactlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\views\\contactdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\views\\contactdetailspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\viewmodels\\contactdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\viewmodels\\addcontactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\viewmodels\\addcontactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|c:\\users\\patel8sd\\downloads\\contactlist\\contactlist\\contactlist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84684706-332D-46D0-AE9E-5400F8F72765}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "ContactList\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:18:39.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\AddContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\Views\\AddContactPage.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\AddContactPage.xaml.cs",
+              "RelativeToolTip": "ContactList\\Views\\AddContactPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:02:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactDetailsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactDetailsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\Views\\ContactDetailsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactDetailsPage.xaml.cs",
+              "RelativeToolTip": "ContactList\\Views\\ContactDetailsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T16:01:18.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactsPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\Views\\ContactsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactsPage.xaml.cs",
+              "RelativeToolTip": "ContactList\\Views\\ContactsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T15:18:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\App.xaml.cs",
+              "RelativeToolTip": "ContactList\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T14:47:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\App.xaml",
+              "RelativeDocumentMoniker": "ContactList\\App.xaml",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\App.xaml",
+              "RelativeToolTip": "ContactList\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T20:42:11.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\AddContactViewModel.cs",
+              "RelativeDocumentMoniker": "ContactList\\ViewModels\\AddContactViewModel.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\AddContactViewModel.cs",
+              "RelativeToolTip": "ContactList\\ViewModels\\AddContactViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:54:36.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactDetailViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeDocumentMoniker": "ContactList\\ViewModels\\ContactDetailViewModel.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\ContactDetailViewModel.cs",
+              "RelativeToolTip": "ContactList\\ViewModels\\ContactDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:55:21.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\AppShell.xaml.cs",
+              "RelativeToolTip": "ContactList\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T18:00:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "ContactList\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MauiProgram.cs",
+              "RelativeToolTip": "ContactList\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:58:26.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactList\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactList\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:52:47.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MainPage.xaml",
+              "RelativeDocumentMoniker": "ContactList\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MainPage.xaml",
+              "RelativeToolTip": "ContactList\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T17:58:13.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactDetailsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactDetailsPage.xaml",
+              "RelativeDocumentMoniker": "ContactList\\Views\\ContactDetailsPage.xaml",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\ContactDetailsPage.xaml",
+              "RelativeToolTip": "ContactList\\Views\\ContactDetailsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T17:57:43.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\MainPage.xaml.cs",
+              "RelativeToolTip": "ContactList\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:58:22.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\AppShell.xaml",
+              "RelativeDocumentMoniker": "ContactList\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\AppShell.xaml",
+              "RelativeToolTip": "ContactList\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T18:00:20.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactPage.xaml",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\AddContactPage.xaml",
+              "RelativeDocumentMoniker": "ContactList\\Views\\AddContactPage.xaml",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\Views\\AddContactPage.xaml",
+              "RelativeToolTip": "ContactList\\Views\\AddContactPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-11T17:56:34.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ContactsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\ContactsViewModel.cs",
+              "RelativeDocumentMoniker": "ContactList\\ViewModels\\ContactsViewModel.cs",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ViewModels\\ContactsViewModel.cs",
+              "RelativeToolTip": "ContactList\\ViewModels\\ContactsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T17:53:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactList.csproj",
+              "DocumentMoniker": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ContactList.csproj",
+              "RelativeDocumentMoniker": "ContactList\\ContactList.csproj",
+              "ToolTip": "C:\\Users\\patel8sd\\Downloads\\ContactList\\ContactList\\ContactList\\ContactList.csproj",
+              "RelativeToolTip": "ContactList\\ContactList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-11T17:51:46.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
